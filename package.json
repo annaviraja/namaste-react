@@ -1,0 +1,19 @@
+{
+  "name": "namstheyreact",
+  "version": "1.0.0",
+  "description": "This is NamasteReact by Annaviraja",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/annaviraja/namaste-react.git)"
+  },
+  "keywords": [],
+  "author": "Annaviraja",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
